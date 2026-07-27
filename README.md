@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Currently pursuing B.E. in AI & ML at Mysore University School of Engineering (MUSE) — CGPA 9.09<br>🔭 I'm currently working on: Strengthening my DSA and problem-solving skills<br> 🤝 I'm looking to collaborate on: AI/ML and beginner-friendly open-source projects<br> 🆘 I'm looking for help with: Real-world project ideas and best practices in AI/ML<br>🌱 I'm currently learning: Machine Learning, Data Structures & Algorithms, Operating Systems <br>📜 Currently pursuing: Professional Certification in AI & Data Science — DRISHTI CPS, IIT Indore
+🎓 Currently pursuing B.E. in AI & ML at Mysore University School of Engineering (MUSE) — CGPA 9.09<br>🔭 I'm currently working on: Strengthening my DSA and problem-solving skills<br> 🤝 I'm looking to collaborate on: AI/ML and beginner-friendly open-source projects<br> 🆘 I'm looking for help with: Real-world project ideas and best practices in AI/ML<br>🌱 I'm currently learning: Machine Learning, Data Structures & Algorithms <br>📜 Currently pursuing: Professional Certification in AI & Data Science — DRISHTI CPS, IIT Indore
 
 
 ## 🌐 Socials:
