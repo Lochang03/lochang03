@@ -1,6 +1,8 @@
 <div align="center">
 
 <h3><code>lochan@github ~ $ whoami</code></h3>
+<h3><code>lochan@github ~ $ curl api.github.com/users/Lochang03/stats</code></h3>
+<img src="./stats-card.svg" width="480" />
 <table>
   <tr>
     <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
