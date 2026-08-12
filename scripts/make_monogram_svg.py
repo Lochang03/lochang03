@@ -15,7 +15,7 @@ FONT_SIZE = 8
 CHAR_W = FONT_SIZE * 0.6
 CHAR_H = FONT_SIZE * 1.0
 FILL_COLOR = "#9da5b4"
-INITIALS = "GL"
+INITIALS = "LG"
 
 def render_initials_image(text: str, size=(600, 400)) -> Image.Image:
     img = Image.new("L", size, color=255)  # white background

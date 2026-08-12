@@ -8,16 +8,6 @@
   </tr>
 </table>
 
-<br><br>
-
-<h3><code>lochan@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
-
-<br><br>
-
-<h3><code>lochan@github ~ $ ./bonus.sh</code></h3>
-<img src="./runner-scene.svg" width="860" />
-
 <br>
 
 ### 🌐 Socials
@@ -33,5 +23,15 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+<h3><code>lochan@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>lochan@github ~ $ ./bonus.sh</code></h3>
+<img src="./runner-scene.svg" width="860" />
 
 </div>
