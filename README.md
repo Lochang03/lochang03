@@ -1,15 +1,5 @@
 <div align="center">
 
-<h3><code>lochan@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
-
-<br><br>
-
-<h3><code>lochan@github ~ $ ./bonus.sh</code></h3>
-<img src="./runner-scene.svg" width="860" />
-
-<br><br>
-
 <h3><code>lochan@github ~ $ whoami</code></h3>
 <table>
   <tr>
@@ -17,6 +7,16 @@
     <td valign="top"><img src="./info-card.svg" width="490" /></td>
   </tr>
 </table>
+
+<br><br>
+
+<h3><code>lochan@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>lochan@github ~ $ ./bonus.sh</code></h3>
+<img src="./runner-scene.svg" width="860" />
 
 <br>
 
