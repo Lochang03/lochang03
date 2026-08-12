@@ -1,8 +1,6 @@
 <div align="center">
 
 <h3><code>lochan@github ~ $ whoami</code></h3>
-<h3><code>lochan@github ~ $ curl api.github.com/users/Lochang03/stats</code></h3>
-<img src="./stats-card.svg" width="480" />
 <table>
   <tr>
     <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
@@ -25,6 +23,11 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+<h3><code>lochan@github ~ $ curl api.github.com/users/Lochang03/stats</code></h3>
+<img src="./stats-card.svg" width="480" />
 
 <br>
 
